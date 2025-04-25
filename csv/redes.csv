@@ -1,0 +1,5 @@
+"red_id","nombre","tipo","configuracion"
+"1","Red Estudiantes","segura","WPA2, filtrado MAC, segmentación VLAN"
+"2","Red Invitados","pública","Portal cautivo, autenticación temporal"
+"3","Red Administrativa","segura","VPN, control de acceso, segmentación"
+"4","Red IoT",,"Aislada para dispositivos IoT"
